@@ -11,7 +11,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![jquery](https://img.shields.io/badge/-jquery-333333?style=flat&logo=jquery)
   ![Node.Js](https://img.shields.io/badge/-Node.Js-333333?style=flat&logo=Node.Js)
-  ![Express](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=Express)
+  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=Express.js)
   ![Mongodb](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=mongodb)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
